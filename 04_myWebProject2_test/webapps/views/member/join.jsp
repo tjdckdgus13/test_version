@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>회원 가입 양식</title>
+<title>회원 가입 양식식</title>
 <script src="/myWeb/assets/js/jquery-3.6.0.min.js"></script>
 <script src="http://dmaps.daum.net/map_js_init/postcode.v2.js"></script>
 <link rel="stylesheet" href="/myWeb/assets/css/header.css" />
